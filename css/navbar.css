@@ -1,0 +1,37 @@
+/*Navbar CSS*/
+
+    /*Navbar Transparent CSS*/
+    .opaque-navbar {
+    	background-color: transparent !important;
+        transition: background-color .5s ease 0s;
+    }
+	.opaque-navbar .navbar-nav{
+		border-bottom: 1px solid #4c4c4c;
+        padding-bottom:5px;
+	}
+    .opaque-navbar.opaque {
+        background-color: #34424f !important;
+    }
+    .opaque-navbar.opaque .navbar-nav {
+        border-bottom:none;
+    }
+   
+/*Navbar CSS End*/
+
+
+
+/*NavbarDark CSS*/
+.navbarDark{
+    background-color: #34424f !important;
+}
+/*Ends Here*/
+
+@media (max-width: 792px){
+    .opaque-navbar{
+        background-color: #34424f !important;
+    }
+    .navbar-brand img{
+        height: 50px;
+        width: 120px;
+    }
+}

@@ -1,0 +1,11 @@
+.icon1 {
+        transition: all 250ms ease-in-out;
+    }
+
+    .icon1:hover {
+        transform: translate(140px,140px) scale(0.6);
+    }
+
+    .icon1 > cls-1:hover {
+        background-color: white;
+    }

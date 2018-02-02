@@ -1,0 +1,54 @@
+  <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 463 446">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5fb7c5;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #d7fbff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #44a1aa;
+      }
+    </style>
+  </defs>
+  <title>Services</title>
+  <g>
+    <circle class="cls-1" cx="229" cy="132" r="132"/>
+    <g>
+      <circle class="cls-2" cx="224.52" cy="133.22" r="54.52"/>
+      <rect class="cls-2" x="234.29" y="76.26" width="53.71" height="111.49"/>
+      <polygon class="cls-2" points="201.74 142.17 234.29 187.75 173.25 187.75 201.74 142.17"/>
+    </g>
+  </g>
+  <g>
+    <circle class="cls-3" cx="73" cy="300" r="73"/>
+    <g>
+      <circle class="cls-2" cx="70.35" cy="300.72" r="32.28"/>
+      <rect class="cls-2" x="76.13" y="267" width="31.8" height="66"/>
+      <polygon class="cls-2" points="56.86 306.02 76.13 333 40 333 56.86 306.02"/>
+    </g>
+  </g>
+  <g>
+    <circle class="cls-3" cx="229" cy="373" r="73"/>
+    <g>
+      <circle class="cls-2" cx="226.35" cy="373.72" r="32.28"/>
+      <rect class="cls-2" x="232.13" y="340" width="31.8" height="66"/>
+      <polygon class="cls-2" points="212.86 379.02 232.13 406 196 406 212.86 379.02"/>
+    </g>
+  </g>
+  <g>
+    <circle class="cls-3" cx="390" cy="300" r="73"/>
+    <g>
+      <circle class="cls-2" cx="387.35" cy="300.72" r="32.28"/>
+      <rect class="cls-2" x="393.13" y="267" width="31.8" height="66"/>
+      <polygon class="cls-2" points="373.86 306.02 393.13 333 357 333 373.86 306.02"/>
+    </g>
+  </g>
+</svg>

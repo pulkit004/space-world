@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246.16 196">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke: #0095ae;
+      }
+    </style>
+  </defs>
+  <title>Asset 12</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path class="cls-1" d="M104.16,157.09h0a4.91,4.91,0,0,0-1.29-.71c-20.54-11.58-32.58-43.5-32.58-43.5h0a16.15,16.15,0,0,0-31.46,0h0s-12.06,31.92-32.58,43.5a4.28,4.28,0,0,0-1.29.71H5a4.3,4.3,0,0,0,2.75,7.67h93.66a4.3,4.3,0,0,0,2.78-7.67Z"/>
+        <rect class="cls-1" x="36.51" y="165.5" width="35.83" height="9.59"/>
+        <path class="cls-1" d="M55.42,175.08V184a9,9,0,0,0,9,9H183a9,9,0,0,0,9-9h0v-.1"/>
+        <rect class="cls-2" x="181.07" y="171.8" width="21.7" height="12.11"/>
+        <rect class="cls-2" x="66.28" y="21.92" width="21.7" height="12.11"/>
+        <path class="cls-1" d="M149.44,55.08H215a7.21,7.21,0,0,1,7.22,7.22v69.62a7.21,7.21,0,0,1-7.22,7.22H149.44a7.21,7.21,0,0,1-7.22-7.22V62.29A7.21,7.21,0,0,1,149.44,55.08Z"/>
+        <g>
+          <rect class="cls-2" x="208.84" y="90.4" width="4.79" height="13.37"/>
+          <rect class="cls-2" x="150.55" y="90.4" width="4.79" height="13.37"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="174.78" y="55.08" width="4.79" height="13.37"/>
+          <rect class="cls-1" x="179.57" y="55.08" width="4.79" height="13.37"/>
+          <rect class="cls-1" x="184.62" y="55.08" width="4.79" height="13.37"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="174.78" y="125.73" width="4.79" height="13.37"/>
+          <rect class="cls-1" x="179.57" y="125.73" width="4.79" height="13.37"/>
+          <rect class="cls-1" x="184.62" y="125.73" width="4.79" height="13.37"/>
+        </g>
+        <path class="cls-1" d="M222.72,97,236,97a7.18,7.18,0,0,0,7.17-7.19V10.19A7.2,7.2,0,0,0,236,3H84.32a7.2,7.2,0,0,0-7.19,7.19h0V21.92"/>
+        <g>
+          <rect class="cls-2" x="3" y="60.25" width="62.58" height="15.64"/>
+          <rect class="cls-2" x="65.58" y="64.04" width="4.79" height="8.07"/>
+          <line class="cls-2" x1="70.37" y1="68.07" x2="79.2" y2="68.07"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

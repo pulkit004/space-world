@@ -1,0 +1,92 @@
+#footerScroll{
+	background-color: #34424f;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#footerScroll input{
+	height: 50px;
+	color:#97a2ad;
+	border-radius: 0;
+	background-color: #5d6d7b;
+	border-color: #5d6d7b;
+}
+#footerScroll textarea{
+	height: 160px;
+	border-radius: 0;
+	background-color: #5d6d7b;
+	border-color: #5d6d7b;
+	overflow: hidden;
+}
+#footerScroll textarea:focus, input:focus{
+    outline: none;
+}
+#footerScroll h3{
+	font-family: Lato;
+	font-size: 36px;
+	font-weight: 300;
+	text-align: left;
+	color: #d2dce5;
+}
+#footerScroll h5{
+	font-family: Lato;
+	font-size: 14px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #7d91a2;
+
+}
+#footerScroll .w-75{
+	width:90% !important;
+}
+#footerScroll p{
+	font-family: Lato;
+	font-size: 14px;
+	line-height: 1.43;
+	text-align: left;
+	color: #999999;
+}
+#footerScroll a {
+	display: block;
+	text-decoration: none;
+	color: #7d91a2;
+
+}
+#footerScroll a:hover {
+		text-decoration: none;
+
+	color: white;
+}
+.footer-form-btn{
+	border-radius: 0;
+	border: solid 1px #ffffff;
+	color: #34424f !important;
+	background-color: #999999 !important;
+	cursor: pointer;
+	font-family: Lato;
+	font-size: 14px;
+	letter-spacing: 2.4px;
+	padding: 10px 35px;
+
+}
+.footer-form-btn:hover{
+	background-color: #DFDFDF !important;
+	border-color: #7d91a2;
+	color: #7d91a2;
+
+}
+.footer1{
+	background-color: #3d4c5a !important;
+	padding-top: 10px !important;
+	padding-bottom: 0px !important;
+	color: #999999 !important;
+}
+.footer1 a{
+	color: #999999;
+}
+.footer1 a:hover{
+	color: #0095ae;
+}
+.footer1 .d-flex{
+	justify-content: space-between;
+}

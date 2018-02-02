@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+.jumbotron{
+    margin-bottom: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+.projectDetailsCover{
+    height: 80vh;   
+    background-image: url('../images/aboutUs.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #ffffff;
+}
+.projectDetailsCover .display-3{
+    font-size: 4rem;
+    font-family: 'Lato', sans-serif;
+}
+.jumbotron .display-4{
+    font-family: Lato;
+    font-size: 45px;
+    font-weight: 300;
+    color: #34424f;
+}
+.projectDetailsCover p{
+    margin:0 auto;
+    width: 80%; 
+    font-size: 16px;
+    line-height: 2.12;
+    text-align: left;
+    color: #ffffff;
+}
+
+.projectDetailsContent p{
+    font-size: 16px;
+    line-height: 2.12;
+    color: #535353;
+    width: 70%;
+    margin:0 auto;
+}
+
+.projectDetailsContent img{
+    display: block;
+    margin:0 auto;
+}
+
+.solutions{
+    background-color: #ebebeb;
+    padding-bottom: 0 !important; 
+}
+.solutions .col-md-8, .col-lg-8, .col-md-4, .col-md-12{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.solutions img{
+    width: 100%;
+    height: 550px;
+}
+.solutions .blue-background p{
+    font-family: Lato;
+    margin:5rem;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    color: #e0e0e0;
+}
+.blue-background{
+    background-color: #0095ae;
+}
+.projectCarousel p{
+    font-size: 16px;
+    line-height: 2.12;
+    color: #535353;
+    width: 70%;
+    margin:0 auto;
+
+}
+  
+.projectCarousel .container-fluid{
+    padding: 0 !important;
+
+}

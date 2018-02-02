@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+.jumbotron{
+    margin-bottom: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+.productsCover{
+    height: 80vh;   
+    background-image: url('../images/products.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #ffffff;
+}
+.productsCover .display-3{
+    font-size: 4rem;
+    font-family: 'Lato', sans-serif;
+}
+.productsCover p{
+    margin:0 auto;
+    width: 80%; 
+    font-size: 16px;
+    line-height: 2.12;
+    text-align: left;
+    color: #ffffff;
+}
+
+.productsContent p{
+
+    font-size: 16px;
+    line-height: 2.12;
+    color: #535353;
+}
+
+.productsContent img{
+    display: block;
+    margin:0 auto;
+}
+
+.tabular-section .nav-tabs{
+    border-bottom: none;
+}
+
+.tabular-section .nav-tabs .nav-link{
+    font-family: Lato;
+    font-size: 18px;
+    color: #b1b1b1;
+    border: none;
+}
+
+.tabular-section .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: transparent;
+    font-family: Lato;
+    font-size: 18px;
+    color: #0095ae;
+    width: 100%;
+    border:none;
+    border-bottom: 4px solid #0095ae;
+}
+
+
+.card img{
+    height: 250px;
+}
+
+.card-body{
+    padding: 15px;
+}
+.modal.and.carousel {
+  position: fixed; // Needed because the carousel overrides the position property
+}
+
+@media(max-width:792px){
+  .productsCover{
+    height: 100%; 
+    padding-top: 100px; 
+    background-attachment: scroll; 
+  }
+  .card img{
+    height: 200px;
+    }
+.tabular-section .nav-tabs .nav-link{
+    font-family: Lato;
+    font-size: 14px;
+    color: #b1b1b1;
+    border: none;
+}
+
+.tabular-section .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: transparent;
+    font-family: Lato;
+    font-size: 14px;
+    color: #0095ae;
+    width: 100%;
+    border:none;
+    border-bottom: 4px solid #0095ae;
+    }
+
+     .productsCover .display-3{
+    font-size: 2.5rem;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 1rem !important;
+  }
+  .productsCover p{
+    width: 100%;
+  }
+}

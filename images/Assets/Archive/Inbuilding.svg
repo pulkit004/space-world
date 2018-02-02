@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260.73 196">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke: #0095ae;
+      }
+    </style>
+  </defs>
+  <title>Asset 9</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <line class="cls-1" x1="3" y1="193" x2="257.73" y2="193"/>
+        <path class="cls-1" d="M36.65,125.63"/>
+        <path class="cls-1" d="M77.74,125.63"/>
+        <g>
+          <circle class="cls-2" cx="61.43" cy="44.02" r="10.37"/>
+          <path class="cls-1" d="M29.27,74.52a44.31,44.31,0,0,1-.14-60.84"/>
+          <path class="cls-1" d="M92.31,12.24a44.29,44.29,0,0,1,.9,62.66c-.59.61-1.2,1.2-1.84,1.79"/>
+          <path class="cls-1" d="M45.63,65.19a26.39,26.39,0,0,1-5.37-36.94,27,27,0,0,1,5.37-5.37"/>
+          <path class="cls-1" d="M76.18,22.12A26.4,26.4,0,0,1,77,65.35"/>
+          <line class="cls-1" x1="101.27" y1="193" x2="61.43" y2="54.39"/>
+          <line class="cls-1" x1="61.43" y1="54.39" x2="21.35" y2="193"/>
+        </g>
+        <rect class="cls-1" x="153.63" y="51.09" width="76.61" height="141.91"/>
+        <path class="cls-1" d="M203.61,35.53c10.68-10.68,12-26.78,7.31-31.49L172.26,42.7C176.95,47.41,192.93,46.21,203.61,35.53Z"/>
+        <line class="cls-1" x1="190.17" y1="24.69" x2="180.62" y2="15.14"/>
+        <circle class="cls-2" cx="176.03" cy="9.84" r="6.84"/>
+        <polyline class="cls-1" points="218.69 51.09 204.08 35.53 249.34 35.53 249.34 65.23 196.3 65.23"/>
+        <polyline class="cls-1" points="249.34 65.23 249.34 93.76 196.3 93.76"/>
+        <polyline class="cls-1" points="249.34 93.76 249.34 123.69 196.3 123.69"/>
+        <polyline class="cls-1" points="249.34 123.69 249.34 150.57 196.3 150.57"/>
+        <polyline class="cls-1" points="249.34 150.57 249.34 177.21 196.3 177.21"/>
+        <rect class="cls-2" x="185.46" y="61.46" width="10.84" height="6.84"/>
+        <rect class="cls-2" x="185.46" y="90.46" width="10.84" height="6.84"/>
+        <rect class="cls-2" x="185.46" y="119.45" width="10.84" height="6.84"/>
+        <rect class="cls-2" x="185.46" y="147.27" width="10.84" height="6.84"/>
+        <rect class="cls-2" x="185.46" y="174.14" width="10.84" height="6.84"/>
+      </g>
+    </g>
+  </g>
+</svg>
