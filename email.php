@@ -15,8 +15,9 @@
 
 
   if( mail($to, "You have recieved a new message.", $message, $headers)){
-  header('refresh:3;url=index.php');
-  echo "E-Mail Sent successfully, we will get back to you soon.";
+  header('refresh:0;url=index.php');
+  // echo "alert('E-Mail Sent successfully, we will get back to you soon.')";
+  echo '<script type="text/javascript"> alert("E-Mail Sent successfully, we will get back to you soon.")</script>';
 
   }
 }

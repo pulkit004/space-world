@@ -27,9 +27,7 @@
           Being the leading manufacturer of connectivity solutions with the necessary infrastructure that is required, SPACE offers a comprehensive range of products, services and the know-how required to meet the continually increasing demands of our customers in terms of quality, efficiency and cost-effectiveness.
           <br/>
           SPACE offers standardized and customized products in the field of radio frequency (RF), Infra products which helps in engineering applications of telecom, complete network solution into the large building (IBS), all the required technical accessories while installing a Base Trans-Receiver Station (BTS Accessories).
-         <!--  <br/>
-          We are supported by a state-of-the-art manufacturing facility that assists us in completing the bulk orders within the stipulated time frame. To ensure products of high quality standards, we follow stringent quality checking at each level. We conduct quality tests on the basis of well-defined parameters.ch helps in engineering applications of telecom, complete network solution into the large building (IBS),
-          all the required technical accessories while installing a Base Transreceiver Station (BTS Accessories). -->
+       
         </p>
       </div>
     </div>
@@ -47,9 +45,7 @@
             <li class="nav-item">
               <a class="nav-link" id="btsaccessories-tab" data-toggle="tab" href="#btsaccessories" role="tab" aria-controls="btsaccessories">BTS ACCESSORIES</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" id="solar-tab" data-toggle="tab" href="#solar" role="tab" aria-controls="solar">SOLAR</a>
-            </li>
+        
           </ul>
           <div class="tab-content p-1" id="myTabContent">
             
@@ -57,95 +53,68 @@
             <!-- RF PRODUCTS -->
             <div class="tab-pane fade show active p-3" id="rfproducts" role="tabpanel" aria-labelledby="rfproducts-tab">
               <p class="mb-5">Radio Frequency (RF) is a band of frequencies, suitable for telecommunication. the range extending from around 3 kHz to300 GHz.<br/>
-              In the range of RF Products, Space offers all the antennas (Omni, Panel, Yagi etc), different types of connectors (N type, DIN type, Straight and Right Angel,TNC ), Coaxial Cables (1/2”,7/8”, ¼”, 13/8”, 5/4”), cable assemblies, Directional Couplers (5 dB ,7dB, 10dB, 15 dB, 20 dB, 40 dB), Splitters ( 2way, 3way, 4 way), Combiners, Diplexer, Triplexer
+              In the range of RF Products, Space offers all the antennas (Omni, Panel, Yagi etc), different types of connectors (N type, DIN type,Straight and Right Angel,TNC ), Coaxial Cables (1/2”,7/8”, ¼”, 13/8”, 5/4”), cable assemblies, Directional Couplers (5 dB ,7dB, 10dB, 15 dB, 20 dB, 40 dB), Splitters ( 2way, 3way, 4 way), Combiners, Diplexer, Triplexer
               <br/>
               All these products are well tested on all parameters VSWR, Insertion loss and  PIM (Passive Intermodulation).
               </p>
               <div class="products-gallery">
                 <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- One -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
                       <a href="#myGallery" data-slide-to="0">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/Adapter.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/FedderCables1.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">Adapter</p>
+                            <p class="card-text p-0 text-center">Feeder Cables</p>
                           </div>
                         </div>
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Two -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
                       <a href="#myGallery" data-slide-to="1">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/Combiner.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/OmniAntenna.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">Combiner</p>
+                            <p class="card-text p-0 text-center">Omni Antenna</p>
                           </div>
                         </div>
                       </a>
                     </div>
-                  </div>  
+                  </div>
+                  <!-- Three -->
                   <div class="col-md-4 col-sm-12 mb-1">
                     <div data-toggle="modal" data-target="#myModal">
                       <a href="#myGallery" data-slide-to="2">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/Connector.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/PanelAntenna.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">Connector</p>
+                            <p class="card-text p-0 text-center">Panel Antenna</p>
                           </div>
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>
+                  <!-- Four -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
                       <a href="#myGallery" data-slide-to="3">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/DINMaleConnector.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/PowerSpiltter4way.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">DIN Male Connector</p>
+                            <p class="card-text p-0 text-center">Power Spiltter 4 Way</p>
                           </div>
                         </div>
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Five -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
                       <a href="#myGallery" data-slide-to="4">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/DINMRAConnector.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">DIN MRA Connector</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="5">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/Diplexer.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">Diplexer</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>                   
-                </div>
-
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="6">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/DirectionalCoupler5dB.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -155,9 +124,10 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Five -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="7">
+                      <a href="#myGallery" data-slide-to="5">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/DirectionalCoupler7dB.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -167,9 +137,10 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Five -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="8">
+                      <a href="#myGallery" data-slide-to="6">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/DirectionalCoupler12dB.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -179,14 +150,10 @@
                       </a>
                     </div>
                   </div>                   
-                </div>
-
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Five -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="9">
+                      <a href="#myGallery" data-slide-to="7">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/DirectionalCoupler40dB.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -196,50 +163,11 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="10">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/FedderCables1.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">Fedder Cables</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="11">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/FeederCables.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">Feeder Cables</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>                   
-                </div>
 
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Six -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="12">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/Jumper.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">Jumper</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="13">
+                      <a href="#myGallery" data-slide-to="8">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/NMaleConnector.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -248,10 +176,11 @@
                         </div>
                       </a>
                     </div>
-                  </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div> 
+                   <!--Six  -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="14">
+                      <a href="#myGallery" data-slide-to="9">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/NMaleRAConnector.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -260,27 +189,56 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
+                  </div>
 
-                <!-- Row End -->
 
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <!-- Seven -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="15">
+                      <a href="#myGallery" data-slide-to="10">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/OmniAntenna.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/Combiner.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">Omni Antenna</p>
+                            <p class="card-text p-0 text-center">Combiner</p>
                           </div>
                         </div>
                       </a>
                     </div>
-                  </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>
+                  
+                  <!-- Eight -->
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="16">
+                      <a href="#myGallery" data-slide-to="11">
+                        <div class="card">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/Jumper.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text p-0 text-center">Jumper</p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>  
+                  
+                  <!-- Nince -->
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div data-toggle="modal" data-target="#myModal">
+                      <a href="#myGallery" data-slide-to="12">
+                        <div class="card">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/Diplexer.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text p-0 text-center">Diplexer</p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>  
+                  
+                  
+                  <!-- Ten -->
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div data-toggle="modal" data-target="#myModal">
+                      <a href="#myGallery" data-slide-to="13">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/RF/OpticalPatchCord.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -289,39 +247,23 @@
                         </div>
                       </a>
                     </div>
-                  </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div> 
+
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="17">
+                      <a href="#myGallery" data-slide-to="14">
                         <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/PanelAntenna.jpg" alt="Card image cap">
+                          <img class="card-img-top img-fluid" src="images/Products/RF/Adapter.jpg" alt="Card image cap">
                           <div class="card-body">
-                            <p class="card-text p-0 text-center">Panel Antenna</p>
+                            <p class="card-text p-0 text-center">Surge Arrestor</p>
                           </div>
                         </div>
                       </a>
                     </div>
-                  </div>                   
+                  </div> 
+                   
                 </div>
-
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
-                    <div data-toggle="modal" data-target="#myModal">
-                      <a href="#myGallery" data-slide-to="18">
-                        <div class="card">
-                          <img class="card-img-top img-fluid" src="images/Products/RF/PowerSpiltter4way.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <p class="card-text p-0 text-center">Power Spiltter 4 Way</p>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>     
-                </div>
-
-                <!-- Row End -->
+              <!-- Row End -->
               </div>
             </div>
             <!-- RF End -->
@@ -333,21 +275,32 @@
                 <br/>
                 We produce a variety of products under Infra Products –
               </p> 
-              <ul> 
-                <li><p>All types of Racks</p></li>
-                <li><p>Customized Cabinets</p></li>
-                <li><p>Cable Trays</p></li>
-                <li><p>Antenna Mounts</p></li>
-                <li><p>PMS Control Box</p></li>
-                <li><p>Server Racks</p></li>
-                <li><p>Cabinets with free cooling concept</p></li>
-                <li><p>MCCB Box</p></li>
-                <li><p>SPD Box</p></li>
-                <li><p>All sheet metal components</p></li>
-              </ul>
-              <div class="products-gallery">
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+              <d-flex class="d-flex flex-row align-items-start">
+                <div class="p-1">
+                  <ul>
+                    <li><p>All types of Racks (Server Racks, Microwave Racks, ETSI Racks)</p></li>
+                    <li><p>Customized Cabinets <br/>(Outdoor Battery Bank Cabinet, Outdoor BTS Cabinet, Outdoor AC Cabinet)</p></li>
+                    <li><p>Cabinets with free cooling concept</p></li>
+                    <li><p>Cable Trays</p></li>
+                    <li><p>Antenna Mounts</p></li>
+                  </ul>
+              
+                </div>
+                <div class="p-1">
+                  <ul>
+                    <li><p>PMS Control Box</p></li>
+                    <li><p>MCCB Box</p></li>
+                    <li><p>SPD Box</p></li>
+                    <li><p>All sheet metal components</p></li>
+                  </ul>
+                
+                </div>
+              </d-flex>
+               
+              
+              <div class="products-gallery">    
+                <div class="row">              
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="0">
                         <div class="card">
@@ -359,7 +312,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="1">
                         <div class="card">
@@ -371,7 +324,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="2">
                         <div class="card">
@@ -382,12 +335,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                                   
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="3">
                         <div class="card">
@@ -399,7 +348,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="4">
                         <div class="card">
@@ -411,7 +360,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="5">
                         <div class="card">
@@ -422,14 +371,34 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>       
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="6">
+                        <div class="card">
+                          <img class="card-img-top img-fluid" src="images/Products/INFRA/BTSCabinet.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text p-0 text-center">BTS Cabinet</p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>       
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div data-toggle="modal" data-target="#myModal1">
+                      <a href="#myGallery1" data-slide-to="7">
+                        <div class="card">
+                          <img class="card-img-top img-fluid" src="images/Products/INFRA/cabinet.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text p-0 text-center">Cabinet</p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>                   
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div data-toggle="modal" data-target="#myModal1">
+                      <a href="#myGallery1" data-slide-to="8">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/INFRA/MeterBox.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -439,10 +408,9 @@
                       </a>
                     </div>
                   </div> 
-
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
-                      <a href="#myGallery1" data-slide-to="6">
+                      <a href="#myGallery1" data-slide-to="9">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/INFRA/MWMount.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -452,10 +420,9 @@
                       </a>
                     </div>
                   </div> 
-
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
-                      <a href="#myGallery1" data-slide-to="7">
+                      <a href="#myGallery1" data-slide-to="10">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/INFRA/OutdoorTransmissionRack.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -465,15 +432,9 @@
                       </a>
                     </div>
                   </div>  
-                             
-                </div>
-                <!-- Row End -->
-
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
-                      <a href="#myGallery1" data-slide-to="8">
+                      <a href="#myGallery1" data-slide-to="11">
                         <div class="card">
                           <img class="card-img-top img-fluid" src="images/Products/INFRA/ServerRack.jpg" alt="Card image cap">
                           <div class="card-body">
@@ -483,7 +444,7 @@
                       </a>
                     </div>
                   </div>        
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="12">
                         <div class="card">
@@ -495,7 +456,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="13">
                         <div class="card">
@@ -506,11 +467,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                 
-                </div>
-                <!-- Row End -->
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                                
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal1">
                       <a href="#myGallery1" data-slide-to="14">
                         <div class="card">
@@ -523,10 +481,6 @@
                     </div>
                   </div>   
                 </div>
-
-
-
-
               </div>
             </div>
             <!-- End Here -->
@@ -534,27 +488,45 @@
             <!-- BTS Accessories -->
             <div class="tab-pane fade p-3" id="btsaccessories" role="tabpanel" aria-labelledby="btsaccessories-tab">
               <p> 
-                We also hold expertise in offering BTS Installation Accessories that meet the requirements of diverting transient currents from lightning off the transmission line to an earth grounding system. This helps in preventing damage to expensive cable and radio equipment. Our range of BTS Installation Accessories is perfect to use for cables with the sizes of ¼, ½, 7/8, 1-1/4 and 1-5/8. The precision engineered IGB / EGB - Bus Bars and earthling kits are strictly checked to ensure high quality standards. We also offer customization on these kits to meet the specific requirements of our clients. We conduct quality tests on the basis of well-defined parameters such as tolerance, longevity/durability, composition of raw material & performance.<br/>
+                We also hold expertise in offering BTS Installation Accessories that meet the requirements of diverting transient currents from lightning off the transmission line to an earth grounding system. This helps in preventing damage to expensive cable and radio equipment. Our range of BTS Installation Accessories is perfect to use for cables with the sizes of ¼, ½, 7/8, 1-1/4 and 1-5/8. The precision engineered IGB / EGB - Bus Bars and earthing kits are strictly checked to ensure high quality standards. We also offer customization on these kits to meet the specific requirements of our clients. We conduct quality tests on the basis of well-defined parameters such as tolerance, longevity/durability, composition of raw material & performance.<br/>
                 These includes:
               </p> 
-              <ul> 
-                <li><p>Indoor & Outdoor Grounding Kits for Cable size 7/16, 16 sqmm or as desired</p></li>
-                <li><p>Weather Proofing Kits</p></li>
-                <li><p>Patch Chords</p></li>
-                <li><p>Feeder Clamps</p></li>
-                <li><p>IGB/EGB Bus Bars</p></li>
-                <li><p>Label Holders</p></li>
-                <li><p>Surge arrestor</p></li>
-                <li><p>Krone Modules</p></li>
-                <li><p>Back Mount Frame</p></li>
-                <li><p>Wall entry Plate</p></li>
-                <li><p>Baluns</p></li>
-                <li><p>SWR</p></li>
+              <div class="d-flex flex-row justify-content-between">
+                <div class="p-1">
+                  <ul> 
+                    <li><p>Indoor & Outdoor Grounding Kits <br/> for Cable size 7/16, 16 sqmm or as desired</p></li>
+                    <li><p>Weather Proofing Kits</p></li>
+                    <li><p>Patch Chords</p></li>
+                    <li><p>Feeder Clamps</p></li>
+                    <li><p>IGB/EGB Bus Bars</p></li>
 
-              </ul>
+                  </ul>
+                </div>
+                <div class="p-1">
+                  <ul>
+                    <li><p>Label Holders</p></li>
+                    <li><p>Surge arrestor</p></li>
+                    <li><p>Krone Modules</p></li>
+                    <li><p>Back Mount Frame</p></li>
+                    <li><p>Wall entry Plate</p></li>
+
+                   
+                  </ul>
+                </div>
+                <div class="p-1">
+                  <ul>
+                    <li><p>Baluns</p></li>
+                    <li><p>SWR</p></li>
+                    <li><p>MCB & Lugs</p></li>
+                    <li><p>Power Cables</p></li>
+                  </ul>
+                </div>
+              </div>
+              
+              
               <div class="products-gallery">
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                <div class="row">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="0">
                         <div class="card">
@@ -566,7 +538,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="1">
                         <div class="card">
@@ -578,7 +550,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="2">
                         <div class="card">
@@ -590,11 +562,7 @@
                       </a>
                     </div>
                   </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="3">
                         <div class="card">
@@ -606,8 +574,7 @@
                       </a>
                     </div>
                   </div> 
-          
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="5">
                         <div class="card">
@@ -619,7 +586,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="6">
                         <div class="card">
@@ -630,13 +597,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                              
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="7">
                         <div class="card">
@@ -648,7 +610,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="8">
                         <div class="card">
@@ -660,7 +622,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="9">
                         <div class="card">
@@ -671,13 +633,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                                
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="10">
                         <div class="card">
@@ -689,7 +646,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="11">
                         <div class="card">
@@ -701,7 +658,7 @@
                       </a>
                     </div>
                   </div> 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="12">
                         <div class="card">
@@ -712,13 +669,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                   
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-               
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                                 
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="13">
                         <div class="card">
@@ -730,7 +682,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="14">
                         <div class="card">
@@ -742,7 +694,7 @@
                       </a>
                     </div>
                   </div>
-                   <div class="col-md-4 col-sm-12 mb-1">
+                   <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="15">
                         <div class="card">
@@ -753,13 +705,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                    
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="16">
                         <div class="card">
@@ -771,7 +718,7 @@
                       </a>
                     </div>
                   </div>  
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="17">
                         <div class="card">
@@ -783,7 +730,7 @@
                       </a>
                     </div>
                   </div>
-                   <div class="col-md-4 col-sm-12 mb-1">
+                   <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="18">
                         <div class="card">
@@ -794,13 +741,8 @@
                         </div>
                       </a>
                     </div>
-                  </div>                    
-                </div>
-                <!-- Row End -->
-
-                <div class="row mb-4">
-                 
-                  <div class="col-md-4 col-sm-12 mb-1">
+                  </div>                                    
+                  <div class="col-md-4 col-sm-12 mb-3">
                     <div data-toggle="modal" data-target="#myModal2">
                       <a href="#myGallery2" data-slide-to="19">
                         <div class="card">
@@ -814,75 +756,11 @@
                   </div>  
                             
                 </div>
-                <!-- Row End -->
+                <!-- End -->
               </div>
             </div>
-            <!-- End -->
 
-            <!-- Solar -->
-            <div class="tab-pane fade p-3" id="solar" role="tabpanel" aria-labelledby="solar-tab">
-              <p>
-                With due precision, Space offers Solar Mounting Structures which are manufactured by our deft professionals with the use of supreme grade components and the advanced techniques. In order to meet varying needs of clients, these structures are made available in both standard and customized specifications. Used for mounting solar panels, these structures are made available in bulk at reasonable prices. Structures are an excellent solution to rural properties as they can be used on mountainous and rough terrain. These are expertly designed considering wind load, dead load, seismic zone & many others.<br/>Features:</p>
-                <ul> 
-                  <li><p>Light in weight and durable as they are designed to ensure optimal weight</p></li>
-                  <li><p>Suitable to all weather and climatic conditions</p></li>
-                  <li><p>Easy maintenance</p></li>
-                </ul>
-                <p>Structures, we offer, are -</p>
-                <ul> 
-                  <li><p>Tubular sections</p></li>
-                  <li><p>MS angle section</p></li>
-                  <li><p>C-purlins section</p></li>
-                  <li><p>Rectangular hollow sections</p></li>
-                  <li><p>Square hollow sections</p></li>
-                  <li><p>Z-purlins section and others</p></li>
-                </ul>
-                <div class="products-gallery">
-                  <div class="row mb-4">
-                    <div class="col-md-4 col-sm-12 mb-1">
-                      <div data-toggle="modal" data-target="#myModal3">
-                        <a href="#myGallery3" data-slide-to="0">
-                          <div class="card">
-                            <img class="card-img-top img-fluid" src="images/Products/SOLAR/solar1.jpg" alt="Card image cap">
-                            <div class="card-body">
-                              <p class="card-text p-0 text-center">6 Way Clamp</p>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                    </div> 
-                    <div class="col-md-4 col-sm-12 mb-1">
-                      <div data-toggle="modal" data-target="#myModal3">
-                        <a href="#myGallery3" data-slide-to="1">
-                          <div class="card">
-                            <img class="card-img-top img-fluid" src="images/Products/SOLAR/solar2.jpg" alt="Card image cap">
-                            <div class="card-body">
-                              <p class="card-text p-0 text-center">BNC Balun</p>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                    </div>  
-                    <div class="col-md-4 col-sm-12 mb-1">
-                      <div data-toggle="modal" data-target="#myModal3">
-                        <a href="#myGallery3" data-slide-to="2">
-                          <div class="card">
-                            <img class="card-img-top img-fluid" src="images/Products/SOLAR/solar3.jpg" alt="Card image cap">
-                            <div class="card-body">
-                              <p class="card-text p-0 text-center">BNC Balun 2</p>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                    </div>                   
-                  </div>
-
-
-
-                <!-- Row End -->
-              </div> 
-            </div>
-            <!-- Solar -->
+          
 
           </div>
         </div>
@@ -941,24 +819,18 @@
               </ol> -->
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="images/Products/RF/Adapter.jpg" alt="First slide" style="height: 350px;">
+                  <img class="d-block w-100" src="images/Products/RF/FedderCables1.jpg" alt="Second slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/Combiner.jpg" alt="Second slide" style="height: 350px;">
+                  <img class="d-block w-100" src="images/Products/RF/OmniAntenna.jpg" alt="Second slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/Connector.jpg" alt="Third slide" style="height: 350px;">
+                  <img class="d-block w-100" src="images/Products/RF/PanelAntenna.jpg" alt="Second slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/DINMaleConnector.jpg" alt="Second slide" style="height: 350px;">
+                  <img class="d-block w-100" src="images/Products/RF/PowerSpiltter4way.jpg" alt="Third slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/DINMRAConnector.jpg" alt="Third slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/Diplexer.jpg" alt="Second slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
+                  <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/RF/DirectionalCoupler5dB.jpg" alt="Third slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
@@ -970,34 +842,30 @@
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/RF/DirectionalCoupler40dB.jpg" alt="Second slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/FedderCables1.jpg" alt="Third slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/FeederCables.jpg" alt="Second slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/Jumper.jpg" alt="Third slide" style="height: 350px;">
-                </div>
+            
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/RF/NMaleConnector.jpg" alt="Second slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/RF/NMaleRAConnector.jpg" alt="Third slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/OmniAntenna.jpg" alt="Second slide" style="height: 350px;">
+               
+                  <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/RF/Combiner.jpg" alt="Second slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
+                 <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/RF/Jumper.jpg" alt="Third slide" style="height: 350px;">
+                </div>
+                  <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/RF/Diplexer.jpg" alt="Second slide" style="height: 350px;">
+                </div>
+                  <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/RF/OpticalPatchCord.jpg" alt="Third slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/PanelAntenna.jpg" alt="Second slide" style="height: 350px;">
+              
+                <div class="carousel-item ">
+                  <img class="d-block w-100" src="images/Products/RF/Adapter.jpg" alt="First slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/RF/PowerSpiltter4way.jpg" alt="Third slide" style="height: 350px;">
-                </div>
-
               </div>
               <a class="carousel-control-prev" href="#myGallery" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -1016,6 +884,7 @@
       </div>
     </div>
     <!-- End -->
+
     <!--  Modal For INFRA Products  -->
 
     <div class="modal fade" id="myModal1">
@@ -1053,21 +922,25 @@
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/INFRA/LTPanel.jpg" alt="Third slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/INFRA/MeterBox.jpg" alt="Third slide" style="height: 350px;">
+                 <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/INFRA/BTSCabinet.jpg" alt="Third slide" style="height: 350px;">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/INFRA/OutdoorTransmissionRack.jpg" alt="Third slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/INFRA/ServerRack.jpg" alt="Third slide" style="height: 350px;">
+                 <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/INFRA/cabinet.jpg" alt="Third slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/INFRA/MeterBox.jpg" alt="Third slide" style="height: 350px;">
                 </div>
                 <div class="carousel-item">
+                  <img class="d-block w-100" src="images/Products/INFRA/MWMount.jpg" alt="Third slide" style="height: 350px;">
+                </div>
+
+
+                <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/INFRA/OutdoorTransmissionRack.jpg" alt="Third slide" style="height: 350px;">
                 </div>
+             
+              
                 <div class="carousel-item">
                   <img class="d-block w-100" src="images/Products/INFRA/ServerRack.jpg" alt="Third slide" style="height: 350px;">
                 </div>
@@ -1198,55 +1071,6 @@
       </div>
     </div>
     <!-- End -->
-
-    <!--  Modal For Solar Products  -->
-
-    <div class="modal fade" id="myModal3">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title">RF Products</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body">
-            <div id="myGallery3" class="carousel slide" data-ride="carousel">
-              <!-- <ol class="carousel-indicators">
-                <li data-target="#myGallery" data-slide-to="0" class="active"></li>
-                <li data-target="#myGallery" data-slide-to="1"></li>
-                <li data-target="#myGallery" data-slide-to="2"></li>
-              </ol> -->
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <img class="d-block w-100" src="images/Products/SOLAR/solar1.jpg" alt="First slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/SOLAR/solar2.jpg" alt="Second slide" style="height: 350px;">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="images/Products/SOLAR/solar3.jpg" alt="Third slide" style="height: 350px;">
-                </div>
-              </div>
-              <a class="carousel-control-prev" href="#myGallery3" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#myGallery3" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End -->
-
-
 
 
 

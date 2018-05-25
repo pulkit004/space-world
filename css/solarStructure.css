@@ -1,0 +1,159 @@
+
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+/*Universal CSS*/
+body{
+  position: relative;
+  font-family: 'Lato', sans-serif;
+}
+.jumbotron{
+  margin-bottom: 0;
+}
+.jumbotron .display-4{
+  font-family: 'Lato', sans-serif;
+  font-size: 45px;
+  font-weight: 300;
+  margin-bottom: 5rem;
+}
+/*Universal CSS End*/
+
+/*Cover CSS*/
+.inBuildingSolutionsCover{
+  height: 100vh;   
+  background-image: url('../images/products.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -moz-background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: #ffffff;
+}
+.inBuildingSolutionsCover .display-3{
+  font-size: 4rem;
+  font-family: 'Lato', sans-serif;
+}
+.inBuildingSolutionsCover p{
+  margin:0 auto;
+  width: 80%; 
+  font-size: 16px;
+  line-height: 2.12;
+  text-align: left;
+  color: #ffffff;
+}
+
+.card img{
+    height: 250px;
+  
+}
+
+.card-body{
+    padding: 15px;
+}
+a{
+  color: #222222;
+}
+.modal.and.carousel {
+  position: fixed; 
+  /* Needed because the carousel overrides the position property */
+}
+
+/*End*/
+
+/*Our Services*/
+.our-services{
+  background-color: #ebebeb;
+}
+/*End*/
+
+
+
+/*Our Clients*/
+.our-clients{
+  background-color: #ececec !important;
+}
+/*End*/
+
+.our-clients-mob{
+  display: none;
+  background-color: #ececec !important;
+
+}
+
+@media(max-width:792px){
+
+  .jumbotron .display-4{
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    font-weight: 300;
+    margin-bottom: 2rem;
+  }
+  .inBuildingSolutionsCover{
+    height: 100%; 
+    padding-top: 100px;  
+    background-attachment: scroll;
+  }
+  .inBuildingSolutionsCover .display-3{
+    font-size: 2.5rem;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 1rem !important;
+  }
+  .inBuildingSolutionsCover p{
+    width: 100%;
+  }
+
+  .achievements{
+    display: none;
+  }
+  .achievements-mobile{
+  display: block;
+}
+
+  #carousel-mobile-achievements{
+    width:100%;
+    margin:-15px !important;
+  }
+ .carousel-caption {
+    position: absolute;
+    right: 15%;
+    top:  5% !important;
+    bottom:  5% !important;
+    left: 15%;
+    z-index: 10;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption p{
+  margin-bottom: 0 !important;
+  font-weight: 200;
+ }
+
+  .tabular-section .nav-tabs .nav-link{
+    font-size: 14px;
+  }
+  .tabular-section .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    font-size: 14px;
+  }
+  .our-clients{
+    display: none;
+  }
+  .our-clients-mob{
+    display: block;
+  }
+
+
+}
+
+
+
+
+

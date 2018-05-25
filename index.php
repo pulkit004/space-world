@@ -29,8 +29,8 @@
            <div class="jumbotron jumbotron-fluid cover">
               <h1 class="display-3">Providing communication solutions<br/>like never before!</h1>
               <div class="feature-icons">
-                <div class="row align-items-start justify-content-start">
-                  <div class="col-sm-6 col-md-3 col-lg-3">
+                <div class="d-flex flex-row align-items-start justify-content-center">
+                  <div class="col-12 col-md-4 col-lg-4">
                     <div class="card">
                       <a href="inBuildingSolutions.php" target="_blank">
                         <img src="images/Assets/Archive/Inbuilding.svg" class="img-fluid" >                    
@@ -38,7 +38,7 @@
                       </a>
                     </div>
                   </div>
-                  <div class="col-sm-6 col-md-3 col-lg-3">
+                  <div class="col-12 col-md-4 col-lg-4">
                     <div class="card">
                       <a href="products.php" target="_blank">
                         <img src="images/Assets/Archive/Telecomproducts.svg" class="img-fluid">                     
@@ -46,22 +46,22 @@
                       </a>
                     </div>
                   </div>
-                  <div class="col-sm-6 col-md-3 col-lg-3 mx-4">
+                  <div class="col-12 col-md-4 col-lg-4 mx-4">
                     <div class="card">
-                      <a href="products.php" target="_blank">
+                      <a href="solarStructure.php" target="_blank">
                         <img src="images/Assets/Archive/Solar.svg" class="img-fluid">                   
                         <div class="card-body"><p>Solar Structures</p></div>
                       </a>
                     </div>
                   </div>
-                  <div class="col-sm-6 col-md-3 col-lg-3 mx-4">
+                  <!-- <div class="col-sm-6 col-md-3 col-lg-3 mx-4">
                     <div class="card">
                       <a href="products.php" target="_blank">
                         <img src="images/Assets/Archive/Energy1.svg" class="img-fluid">                     
                         <div class="card-body"><p>Energy</p></div>
                       </a>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
              
@@ -108,14 +108,14 @@
                 <div class="card-body"><p>Solar Structures</p></div>
               </a>
             </div>
-            <div class="p-1">
+            <!-- <div class="p-1">
               <a href="products.php" target="_blank">
                 <img src="images/Assets/Archive/Energy1.svg" class="img-fluid">
               </a>
               <a href="products.php" target="_blank">
                 <div class="card-body"><p>Energy</p></div>
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>    
@@ -167,7 +167,7 @@
                 </div>
               </div>
             </div>
-            <div class="d-flex flex-row justify-content-start align-items-center my-4 unactive" name="products_heading" id="energy_div">
+            <!-- <div class="d-flex flex-row justify-content-start align-items-center my-4 unactive" name="products_heading" id="energy_div">
               <div class="p-1 ovalName">
                 <div class="in-building-solutions-oval-unactive"></div>
               </div>
@@ -179,7 +179,7 @@
                   <a>energy</a>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
 
           <!-- TransitionC Graphic SVG -->
@@ -236,7 +236,7 @@
                     <rect class="cls-2" x="260.17" y="175.07" width="6.13" height="3.87"/>
                   </g>
                 </g>
-                <g class="icon4">
+                <!-- <g class="icon4">
                   <circle class="cls-3" cx="390" cy="300" r="73"/>
                   <g>
                     <line class="cls-2" x1="345.07" y1="334.87" x2="434.93" y2="334.87"/>
@@ -271,7 +271,7 @@
                       <line class="cls-2" x1="357.18" y1="327.82" x2="373.84" y2="327.82"/>
                     </g>
                   </g>
-                </g>
+                </g> -->
                 <g class="icon3">
                   <circle class="cls-3" cx="229" cy="373" r="73"/>
                   <g>
@@ -366,32 +366,32 @@
               </div>
             </div> 
            <div id="telecom-products-content" style="display: none;">
-              <p class="text-left">Telecom quis nulla commodo, aliquam lectus sed, blandit augue. Cras ullamcorper bibendum bibendum. Duis tincidunt urna non pretium porta. Nam condimentum vitae ligula vel ornare. Phasellus at semper turpis. Nunc eu tellus tortor. Etiam at condimentum nisl, vitae sagittis orci. Donec id dignissim nunc. Donec elit ante, eleifend a dolor et, venenatis facilisis dolor.</p>
+              <p class="text-left">Being the leading manufacturer of connectivity solutions with the necessary infrastructure that is required, SPACE offers a comprehensive range of products, services and the know-how required to meet the continually increasing demands of our customers in terms of quality, efficiency and cost-effectiveness. </p>
               <div class="d-flex flex-row justify-content-center align-items-center">
                 <a href="products.php" target="_blank" style="text-decoration: none; color: white;letter-spacing: 1px;">LEARN MORE</a>
                 <div class="learn-more-circle ml-2">
-                  <a href="inBuildingSolutions.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
+                  <a href="products.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
                 </div>
               </div>
             </div>
             <div id="solar-structure-content" style="display: none;">
               <p class="text-left"> With due precision, Space offers Solar Mounting Structures which are manufactured by our deft professionals with the use of supreme grade components and the advanced techniques. In order to meet varying needs of clients, these structures are made available in both standard and customized specifications. Used for mounting solar panels, these structures are made available in bulk at reasonable prices.</p>
               <div class="d-flex flex-row justify-content-center align-items-center">
-                <a href="products.php" target="_blank" style="text-decoration: none; color: white;letter-spacing: 1px;">LEARN MORE</a>
+                <a href="solarStructure.php" target="_blank" style="text-decoration: none; color: white;letter-spacing: 1px;">LEARN MORE</a>
                 <div class="learn-more-circle ml-2">
-                  <a href="inBuildingSolutions.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
+                  <a href="solarStructure.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
                 </div>
               </div>
             </div>
-            <div id="energy-content" style="display: none;">
+            <!-- <div id="energy-content" style="display: none;">
               <p class="text-left">Energy quis nulla commodo, aliquam lectus sed, blandit augue. Cras ullamcorper bibendum bibendum. Duis tincidunt urna non pretium porta. Nam condimentum vitae ligula vel ornare. Phasellus at semper turpis. Nunc eu tellus tortor. Etiam at condimentum nisl, vitae sagittis orci. Donec id dignissim nunc. Donec elit ante, eleifend a dolor et, venenatis facilisis dolor.</p>
               <div class="d-flex flex-row justify-content-center align-items-center">
                 <a href="products.php" target="_blank" style="text-decoration: none; color: white;letter-spacing: 1px;">LEARN MORE</a>
                 <div class="learn-more-circle ml-2">
-                  <a href="inBuildingSolutions.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
+                  <a href="products.php" target="_blank" style="text-decoration: none; color: white;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -403,7 +403,7 @@
         <h1 class="display-4 text-center">About Us</h1>
         <div class="row align-items-center">
           <div class="col-md-8 col-sm-12">
-            <p class="text-left">Space World is a group of companies engaged in Telecommunication business. Founded in 2007, the group have two companies Space Telling Limited and Space tele infra private limited.</p>
+            <p class="text-left">Space World is a group of companies engaged in Telecommunication business. Founded in 2007, the group have two companies Space Telelink Limited and Space Teleinfra Private Limited.</p>
           </div>
           <div class="col-md-4 col-sm-12">
             <img src="images/Assets/logo.png" class="img-fluid" alt="">
@@ -412,14 +412,14 @@
         <div class="d-flex flex-row justify-content-center align-items-center">
           <a href="aboutUs.php" target="_blank" style="text-decoration: none; color: white;letter-spacing: 1px;">LEARN MORE</a>
           <div class="learn-more-circle ml-2">
-            <a href="inBuildingSolutions.php" target="_blank" style="text-decoration: none; color: white; padding-left: 10px;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
+            <a href="aboutUs.php" target="_blank" style="text-decoration: none; color: white; padding-left: 10px;"><i class="fa fa-chevron-right fa-1x pt-2" aria-hidden="true"></i></a>
           </div>
         </div>
       </div>
     </div>
 
 
-    <div class="jumbotron jumbotron-fluid text-center meet-our-team">
+    <!-- <div class="jumbotron jumbotron-fluid text-center meet-our-team">
       <div class="container-fluid">
         <h1 class="display-4">Meet Our Team</h1>
         <div class="row">
@@ -469,7 +469,7 @@
           </div>
         </div>   
       </div>
-    </div>
+    </div> -->
 
 
 
@@ -581,22 +581,22 @@
         $("#solar-structure-content").show(2000);
         switch(activeIcon){
           case "icon1":$(".icon1").css("transform","translate(103px,300px) scale(0.55)")
-                      $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
-                      activeIcon="icon3";
-                      break;
+            $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
+            activeIcon="icon3";
+            break;
           case "icon2":$(".icon1").css("transform","none")
-                      $(".icon1").css("transform","translate(103px, 301px) scale(0.55)")
-                      $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
-                      resetCircle("icon3","icon1");
-                      activeIcon="icon3";
-                      break;
+            $(".icon1").css("transform","translate(103px, 301px) scale(0.55)")
+            $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
+            resetCircle("icon3","icon1");
+            activeIcon="icon3";
+            break;
           case "icon4":$(".icon1").css("transform","none")
-                      $(".icon1").css("transform","translate(103px, 300px) scale(0.55)")
-                      //$(".icon1").css("transform","translate(263px, 227px) scale(0.55)")
-                      $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
-                      resetCircle("icon3","icon1");
-                      activeIcon="icon3";
-                      break;
+                $(".icon1").css("transform","translate(103px, 300px) scale(0.55)")
+                //$(".icon1").css("transform","translate(263px, 227px) scale(0.55)")
+                $(".icon3").css("transform","translate(-183px,-540px) scale(1.8)")
+                resetCircle("icon3","icon1");
+                activeIcon="icon3";
+                break;
         }
         break;
        

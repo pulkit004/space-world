@@ -6,8 +6,8 @@
         transition: background-color .5s ease 0s;
     }
 	.opaque-navbar .navbar-nav{
-		border-bottom: 1px solid #4c4c4c;
-        padding-bottom:5px;
+		/* border-bottom: 1px solid #4c4c4c; */
+        padding-bottom: 5px;
 	}
     .opaque-navbar.opaque {
         background-color: #34424f !important;
@@ -16,6 +16,9 @@
         border-bottom:none;
     }
    
+    .navbar-dark .navbar-nav .nav-link {
+    color: #ffffff90;
+}
 /*Navbar CSS End*/
 
 

@@ -7,7 +7,7 @@
 }
 .productsCover{
     height: 80vh;   
-    background-image: url('../images/products.jpg');
+    background-image: url('../images/product.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -77,7 +77,8 @@
     padding: 15px;
 }
 .modal.and.carousel {
-  position: fixed; // Needed because the carousel overrides the position property
+  position: fixed; 
+  /* Needed because the carousel overrides the position property */
 }
 
 @media(max-width:792px){

@@ -23,83 +23,50 @@
     <div class="jumbotron jumbotron-fluid text-center clienteleCover">
       <div class="container">
        <h1 class="display-3 text-center mb-5">Clientele</h1>
-        <p>
-          Bushwick meh Blue Bottle pork belly mustache skateboard 3 wolf moon. Actually beard single-origin coffee, twee 90's PBR Echo Park sartorial try-hard freegan Portland ennui. Selvage jean shorts 90's, Vice American Apparel try-hard food truck Shoreditch fap lomo Wes Anderson. Art party Thundercats High Life Tumblr, sartorial vinyl deep v fixie McSweeney's fap tousled Intelligentsia mumblecore. Deep v twee +1, roof party Thundercats PBR Etsy. Flexitarian Williamsburg tote bag iPhone American Apparel. Austin kitsch tofu chia, brunch hoodie Tonx semiotics trust fund kale chips.
+        <p class="text-center">
+         Some of the clients who have trusted us with the quality & services of our organisation.
         </p>
       </div>
     </div>
       
     <div class="jumbotron jumbotron-fluid clienteleContent">
       <div class="container-fluid">
-        <div class="row justify-content-around align-items-center mb-3">
+        <div class="row justify-content-start align-items-center mb-3">
           <div class="col-6 col-md-2">
-            <img src="images/Logos/1.png" class="img-fluid p-2">
+            <img src="./images/Logos/ClienteleLogo/AmazonLogo.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
-            <img src="images/Logos/2.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/rays.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
-            <img src="images/Logos/4.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/hero.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
-            <img src="images/Logos/5.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/5l.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/jio.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/7.png" class="img-fluid p-2">
           </div>
-        </div>
-        <div class="row justify-content-around align-items-center mb-3">
           <div class="col-6 col-md-2">
-            <img src="images/Logos/8.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/ooredo.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/9.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
-            <img src="images/Logos/28.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/huber.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/11.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
-            <img src="images/Logos/12.png" class="img-fluid p-2">
+            <img src="images/Logos/ClienteleLogo/hfcl.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/13.png" class="img-fluid p-2">
           </div>
-        </div>
-        <div class="row justify-content-around align-items-center mb-3">
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/14.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/15.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/16.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/17.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/18.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/19.png" class="img-fluid p-2">
-          </div>
-        </div>
-        <div class="row justify-content-around align-items-center mb-3">
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/20.png" class="img-fluid p-2">
-          </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/21.png" class="img-fluid p-2">
-          </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/22.png" class="img-fluid p-2">
           </div>
           <div class="col-6 col-md-2">
             <img src="images/Logos/23.png" class="img-fluid p-2">
@@ -110,27 +77,21 @@
           <div class="col-6 col-md-2">
             <img src="images/Logos/25.png" class="img-fluid p-2">
           </div>
-        </div>
-       <!--  <div class="row justify-content-around align-items-center mb-3">
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/26.png" class="img-fluid p-2">
+            <div class="col-6 col-md-2">
+            <img src="images/Logos/ClienteleLogo/zamil.png" class="img-fluid p-2">
           </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/27.png" class="img-fluid p-2">
+            <div class="col-6 col-md-2">
+            <img src="images/Logos/ClienteleLogo/bsnl.png" class="img-fluid p-2">
           </div>
-          <div class="col-12 col-md-2">
-            <img src="images/Logos/28.png" class="img-fluid p-2">
+            <div class="col-6 col-md-2">
+            <img src="images/Logos/ClienteleLogo/indus.png" class="img-fluid p-2">
           </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/26.png" class="img-fluid p-2">
+            <div class="col-6 col-md-2">
+            <img src="images/Logos/ClienteleLogo/SterliteTech.png" class="img-fluid p-2">
           </div>
-          <div class="col-6 col-md-2">
-            <img src="images/Logos/27.png" class="img-fluid p-2">
-          </div>
-          <div class="col-12 col-md-2">
-            <img src="images/Logos/28.png" class="img-fluid p-2">
-          </div>
-        </div> -->
+
+          
+      
       </div>
     </div>
 
@@ -140,11 +101,6 @@
 
 
 
-
-
-    <?php
-      include("footer.html");
-    ?>
 
 
     <!-- Optional JavaScript -->
@@ -170,3 +126,8 @@
   
   </body>
 </html>
+
+    <?php
+      include("footer.html");
+    ?>
+

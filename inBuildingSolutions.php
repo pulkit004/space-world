@@ -40,7 +40,7 @@
               <a class="nav-link active" id="IBS-tab" data-toggle="tab" href="#IBS" role="tab" aria-controls="IBS" aria-expanded="true">IBS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="wifi-tab" data-toggle="tab" href="#wifi" role="tab" aria-controls="wifi">WIFI</a>
+              <a class="nav-link" id="wifi-tab" data-toggle="tab" href="#wifi" role="tab" aria-controls="wifi">Outdoor</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" id="small-cells-tab" data-toggle="tab" href="#small-cells" role="tab" aria-controls="small-cells">SMALL CELLS</a>
@@ -53,13 +53,14 @@
                   <div class="card-header" role="tab" id="headingOne">
                     <h5 class="mb-0">
                       <a data-toggle="collapse" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 1
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>What is IBS?
                       </a>
                     </h5>
                   </div>
                   <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      In-building Solutions aims to enhance the mobile single network in particular building and various floors. The building may be a hospital, mall, commercial complex or residential area. Solutions provide indoor coverage using serious of hubs/equipment, further distributing the signal to a number of antennas. IBS is classified in to two: Active DAS and Passive DAS. 
+
                     </div>
                   </div>
                 </div>
@@ -67,13 +68,15 @@
                   <div class="card-header" role="tab" id="headingTwo">
                     <h5 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 2
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>What is the need for IBS?
+
                       </a>
                     </h5>
                   </div>
                   <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      All wireless services and high data rate services can suffer from poor in-building network coverage. If you install the IBS service in the building then it results in better network coverage.
+
                     </div>
                   </div>
                 </div>
@@ -81,13 +84,41 @@
                   <div class="card-header" role="tab" id="headingThree">
                     <h5 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 3
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>What are the features?
+
                       </a>
                     </h5>
                   </div>
                   <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+
+                      <ol>
+                        <li>
+                          <p>
+                             Demand of continuous coverage
+
+                          </p>
+                        </li>
+                        <li>
+                          <p>
+                      Meets requirement of Indoor activities that generate high traffic  
+
+                          </p>
+                        </li>
+                        <li>
+                          <p>
+                      Removes poor indoor coverage of outdoor sites
+
+                          </p>
+                        </li>
+                        <li>
+                          <p>
+                      Offloading outdoor cells with high utilization
+
+                          </p>
+                        </li>
+                      </ol>
+
                     </div>
                   </div>
                 </div>
@@ -96,13 +127,15 @@
                   <div class="card-header" role="tab" id="headingFour">
                     <h5 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 4
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>How does IBS-DAS works?
+
                       </a>
                     </h5>
                   </div>
                   <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      An IBS-DAS is a network of antennas that sends and receives cellular signals on a carrier’s licensed frequencies, thereby improving voice and data connectivity for end users. In its most simplified form, a DAS has two basic components: A signal source and Distribution system
+
                     </div>
                   </div>
                 </div>
@@ -114,14 +147,16 @@
                   <div class="card-header" role="tab" id="headingFive">
                     <h5 class="mb-0">
                       <a data-toggle="collapse" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 1
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>What is Outdoor?
+
                       </a>
                     </h5>
                   </div>
 
                   <div id="collapseFive" class="collapse show" role="tabpanel" aria-labelledby="headingFive" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      Outdoor towers or macro towers enables telecom operators for the maximum coverage in a given area. These macro towers are used to enhance the outdoor coverage of area around the building. Increase in users reduces the data speed.
+
                     </div>
                   </div>
                 </div>
@@ -129,17 +164,19 @@
                   <div class="card-header" role="tab" id="headingSix">
                     <h5 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Collapsible Group Item 2
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>How does it work?
+
                       </a>
                     </h5>
                   </div>
                   <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix" data-parent="#accordion">
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      Outdoor DAS use remote nodes, which include antennas and amplifiers, to reach places that cannot be covered by a cell tower. Fiber is the typical conduit that transports the signal to and from the remote nodes. The fiber connects to a hub site that has the baseband equipment to propagate, convert, process and/or control the signal.
+
                     </div>
                   </div>
                 </div>
-                <div class="card mb-5">
+                <!-- <div class="card mb-5">
                   <div class="card-header" role="tab" id="headingSeven">
                     <h5 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
@@ -167,7 +204,7 @@
                       Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                     </div>
                   </div>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="tab-pane fade p-3" id="small-cells" role="tabpanel" aria-labelledby="small-cells-tab">
@@ -183,7 +220,8 @@
 
                   <div id="collapseNine" class="collapse show" role="tabpanel" aria-labelledby="headingNine" data-parent="#accordion">
                     <div class="card-body">
-                      Small cells are low-powered cellular radio access nodes that operate in licensed and unlicensed spectrum that have a range of 10 meters to a few kilo-meters.
+                      Small Cells are essentially about network densification, and about adding capacity by shifting traffic off the macro network. Compared to the typical large-scale cell site, they all operate at lower power, and support lesser users. 
+
                     </div>
                   </div>
                 </div>
@@ -198,6 +236,25 @@
                   <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="headingTen" data-parent="#accordion">
                     <div class="card-body">
                       Small cells or small cellular base stations encompass a number of different technologies but one could describe them as anything that's not a typical macro site. They are deployed to solve network capacity issues in a relatively small area, like a hot spot or an important zone that is a subset of the umbrella macro site coverage.
+
+                    </div>
+                  </div>
+                </div>
+                <div class="card mb-5">
+                  <div class="card-header" role="tab" id="headingTwelve">
+                    <h5 class="mb-0">
+                      <a class="collapsed" data-toggle="collapse" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                        <i class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></i>Why are they needed?
+
+                      </a>
+                    </h5>
+                  </div>
+                  <div id="collapseTwelve" class="collapse" role="tabpanel" aria-labelledby="headingTwelve" data-parent="#accordion">
+                    <div class="card-body">
+                      Wireless devices have increasingly become the most valuable and important items we own. We take them everywhere we go, and simply expect the services we receive on these devices to be of optimum quality – regardless of the location & other variables. That is like going underwater without the scuba gear, and still wanting to function just as we would on ground. With the network densification, such expectation has become increasingly impossible.
+The answer is certainly Small Cells & DAS. These low-power solutions are gaining a ton of attention as an ultimate answer to the capacity & coverage issues in urban settings, dense areas, and buildings. They have grown to become a progressively significant part of wireless networks. 
+
+
                     </div>
                   </div>
                 </div>
@@ -212,7 +269,7 @@
                   <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="headingEleven" data-parent="#accordion">
                     <div class="card-body">
                       Occupying less space, they help ensure seamless connectivity. Operators can easily replace large cell sites in crowded urban areas with several smaller cell sites or even augment cell sites using small cells solutions. By shrinking and/or breaking the size of each cell, operators can support more users per square mile. This means fewer blocked calls and more consistent data speeds in dense Indian metro cities. There are several ways that small cells can be deployed to expand capacity:
-                      <ul class="list-unstyled">
+                      <ul style="margin-left: 20px; margin-top: 10px">
                         <li>Passive Distributed Antenna Systems (DAS)</li>
                         <li>Active Distributed Antenna Systems (DAS)</li>
                         <li>Concealed, Integrated Metro-cells</li>

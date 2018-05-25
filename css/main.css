@@ -93,8 +93,8 @@ body{
   margin-top: 30rem;
 } 
 .feature-icons .card{
-  margin-left: 2rem;
-  margin-right: 2rem;
+  /* margin-left: 2rem; */
+  /* margin-right: 2rem; */
   background: transparent;
   border:transparent;
   text-align: center;
@@ -366,6 +366,11 @@ icon2 to 1 {transform: translate(98px,-408px) scale(1.8);}
 /*Our Clients*/
 .our-clients{
   background-color: #ececec !important;
+
+}
+
+.our-clients .img-fluid{
+  margin: 30px auto;
 }
 .our-clients-mob{
   display: none;
