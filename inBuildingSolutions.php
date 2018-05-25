@@ -40,7 +40,7 @@
               <a class="nav-link active" id="IBS-tab" data-toggle="tab" href="#IBS" role="tab" aria-controls="IBS" aria-expanded="true">IBS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="wifi-tab" data-toggle="tab" href="#wifi" role="tab" aria-controls="wifi">Outdoor</a>
+              <a class="nav-link" id="wifi-tab" data-toggle="tab" href="#wifi" role="tab" aria-controls="wifi">OUTDOOR</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" id="small-cells-tab" data-toggle="tab" href="#small-cells" role="tab" aria-controls="small-cells">SMALL CELLS</a>

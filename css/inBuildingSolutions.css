@@ -221,16 +221,15 @@ body{
 /*End*/
 
 /*Our Clients*/
-.our-clients{
+.our-clients .img-fluid{
+  margin: 30px auto;
+}
+.our-clients-mob{
+  display: none;
   background-color: #ececec !important;
 }
 /*End*/
 
-.our-clients-mob{
-  display: none;
-  background-color: #ececec !important;
-
-}
 
 @media(max-width:792px){
 

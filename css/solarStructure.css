@@ -75,17 +75,14 @@ a{
 
 
 
-/*Our Clients*/
-.our-clients{
-  background-color: #ececec !important;
+.our-clients .img-fluid{
+  margin: 30px auto;
 }
-/*End*/
-
 .our-clients-mob{
   display: none;
   background-color: #ececec !important;
-
 }
+
 
 @media(max-width:792px){
 
